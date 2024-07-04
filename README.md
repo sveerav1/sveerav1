@@ -7,6 +7,7 @@ Machine Learning. Dedicated to driving business impact through data-driven insig
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sveerav1" /> </p>
 Holding a Master of Science in Information Systems Engineering from Binghamton University, I specialize in Software engineering and data analysis, driven by a passion for data innovation. My academic journey has provided me with a strong foundation in database design, data modeling, and advanced data concepts, complemented by practical experience in design patterns. I possess hands-on expertise in AWS and GCP, with additional knowledge in data mining and applied machine learning.
 
+
 Professionally, I have worked as a Software Engineer at Jocata Financial Technology, where I led the development of a Digital Lending Platform leveraging microservices architecture. This experience allowed me to streamline loan procedures, enhance operational efficiency, and significantly improve customer experience. I also developed web applications, managed big data, and automated data processes, resulting in optimized release metrics analysis and accelerated data-driven decisions.
 
 My technical skills include proficiency in Java, Python, SQL, JavaScript, and various frameworks such as Spring, Spring Boot, and Hibernate. I am adept at using tools and technologies like Docker, Kubernetes, Jenkins, and CI/CD pipelines, ensuring efficient and scalable solutions. I have experience with databases including Oracle, MySQL, MS SQL Server, PostgreSQL, and MongoDB, and have implemented robust data migration and integration solutions.
@@ -34,6 +35,7 @@ I am eager to collaborate with innovative companies to apply my expertise in dat
 <!-- Programming Languages Section -->
 <p align="left">
   <strong>Programming Languages:</strong>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/RW1N_qlgFNGNvBCW4GF-b4yhJZilZIw-HumxbxtZF1A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9KYXZhXyhw/cm9ncmFtbWluZ19s/YW5ndWFnZSkvSmF2/YV8ocHJvZ3JhbW1p/bmdfbGFuZ3VhZ2Up/LUxvZ28ud2luZS5z/dmc" width="36" height="36" alt="Python" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
