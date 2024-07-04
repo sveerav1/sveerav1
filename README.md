@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ I am actively seeking full time roles in Software Engineering domain.
 - 💬 Ask me about **Core Java, Spring Boot, Hibernate, Databases, Machine Learning, Neural Networks, Deep Learning**
-- 📄 Know about my experiences - [Sudarsan Veeravalli Resume]((https://drive.google.com/file/d/1HbGaawKPkcnNUC4-qm-4alv1UKJj3oyp/view?usp=sharing))
+- 📄 Know about my experiences - [Sudarsan Veeravalli Resume](https://drive.google.com/file/d/1HbGaawKPkcnNUC4-qm-4alv1UKJj3oyp/view?usp=sharing) 
 - 📫 You can reach me at [veeravallis25@gmail.com](mailto:veeravallis25@gmail.com )
 - 😄 Pronouns: He/Him
 
