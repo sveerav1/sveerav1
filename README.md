@@ -35,7 +35,7 @@ I am eager to collaborate with innovative companies to apply my expertise in dat
 <!-- Programming Languages Section -->
 <p align="left">
   <strong>Programming Languages:</strong>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/RW1N_qlgFNGNvBCW4GF-b4yhJZilZIw-HumxbxtZF1A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9KYXZhXyhw/cm9ncmFtbWluZ19s/YW5ndWFnZSkvSmF2/YV8ocHJvZ3JhbW1p/bmdfbGFuZ3VhZ2Up/LUxvZ28ud2luZS5z/dmc" width="66" height="66" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/RW1N_qlgFNGNvBCW4GF-b4yhJZilZIw-HumxbxtZF1A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9KYXZhXyhw/cm9ncmFtbWluZ19s/YW5ndWFnZSkvSmF2/YV8ocHJvZ3JhbW1p/bmdfbGFuZ3VhZ2Up/LUxvZ28ud2luZS5z/dmc" width="56" height="56" alt="Python" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
